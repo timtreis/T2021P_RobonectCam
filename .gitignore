@@ -1,2 +1,5 @@
 # Ignore credentials file
 src/wifi_credentials.h
+
+# Ignore vscode workspaces
+*.code-workspace
