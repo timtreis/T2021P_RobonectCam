@@ -15,6 +15,8 @@
 ## Ressources
 - https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/
 
+### 3D
+- Model for the ESP32 Cam chip: https://grabcad.com/library/esp32-cam-1/
 
 ## Issues
 ### How can I change the BAUD rate in PlatformIO?
