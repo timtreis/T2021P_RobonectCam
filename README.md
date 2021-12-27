@@ -11,6 +11,8 @@
 ### Read WiFi credentials from SD card
 - If I compile the credentials into the uploaded code, it has to be completely recompiled when for example the WiFi crendetials change
 - Therefore I'll just read them for SD card so that one can just change the `wifi_credentials.h` file on the card
+- https://randomnerdtutorials.com/esp32-microsd-card-arduino/
+  - Format SD card to FAT32
 
 ## Considerations
 - WiFi credentials shouldn't be hardcoded and under GIT but dynamically loaded from a SD card.
