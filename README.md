@@ -1,6 +1,11 @@
 # RobonectCam
 
 ## Objectives
+### The ESP32-Cam has no USB port
+- USB32-Cam: https://www.amazon.de/gp/product/B08MZV1TT9
+- Due to the lack of an USB port, I have to use an FTDI programmer (https://www.amazon.de/gp/product/B01N9RZK6I)
+![](img/programmer_wiring.png)
+
 ### Attach a bigger and stronger antenna
 - Antenna: https://www.amazon.de/gp/product/B0895ZQ7CV/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
 - Tutorial for switching to an external antenna: https://randomnerdtutorials.com/esp32-cam-connect-external-antenna/
