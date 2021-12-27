@@ -6,7 +6,7 @@
 - Antenna: https://www.amazon.de/gp/product/B0895ZQ7CV/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
 - Tutorial for switching to an external antenna: https://randomnerdtutorials.com/esp32-cam-connect-external-antenna/
 - The connection is a tiny SMD resistor that has to be shifted. Horrible to do with a big-tipped soldering iron. Should've brought my own :(
-- 
+![](img/antenna_pads.png)
 
 
 ## Considerations
