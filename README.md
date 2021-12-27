@@ -15,6 +15,11 @@
 ## Ressources
 - https://randomnerdtutorials.com/esp32-cam-video-streaming-web-server-camera-home-assistant/
 
+### 3D
+- "Official" Robonect Cam Holder: https://www.robonect-shop.de/downloads/sonstiges/
+- Base Gardena Cam Holder: https://www.thingiverse.com/thing:3518580
+- Model for the ESP32 Cam chip: https://grabcad.com/library/esp32-cam-1
+- Model for the Antenna: https://grabcad.com/library/antenna-9
 
 ## Issues
 ### How can I change the BAUD rate in PlatformIO?
